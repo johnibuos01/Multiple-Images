@@ -1,3 +1,4 @@
 # Multiple-Images
 
-![](images/thamuz.jpg)
+<img src="thamuz.jpg" height= 200
+</p>
